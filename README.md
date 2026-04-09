@@ -6,7 +6,7 @@
 
 ---
 
-(demo.pngdemo.png
+![Demo](demo.png)
 
 ---
 
